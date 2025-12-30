@@ -5,6 +5,8 @@ RUN apt-get update && \
     tmate \
     openssh-client \
     wget \
+    unzip \
+    neofetch \
     curl \
     git \
     nodejs \
